@@ -24,7 +24,7 @@ Use a pair of shears on a Blaze to neutralize it.
 
 ---
 
-### Example 2: **Milking Blaze**
+### Victim 2: **Milking Blaze**
 You can now milk a Blaze for Lava.
 
 <div align="center">
