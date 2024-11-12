@@ -7,7 +7,7 @@ plugins {
 stonecutter active "1.20.6" /* [SC] DO NOT EDIT */
 stonecutter.automaticPlatformConstants = true
 
-for (it in listOf("Mods", "Github", "Modrinth")) {
+for (it in listOf("Mods", "Github", "Modrinth", "Curseforge")) {
     stonecutter registerChiseled tasks.register("chiseledPublish$it", stonecutter.chiseled) {
         group = "publishing"
         ofTask("publish$it")
