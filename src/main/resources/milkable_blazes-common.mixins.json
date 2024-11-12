@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "org.rhm.milkable_blazes.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlazeMixin",
+    "LivingEntityMixin",
+    "MobMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "BlazeModelAccessor",
+    "LivingEntityRendererMixin"
+  ]
+}
