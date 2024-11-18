@@ -1,1 +1,1 @@
-No changelog provided.
+Fix crashes on Forge

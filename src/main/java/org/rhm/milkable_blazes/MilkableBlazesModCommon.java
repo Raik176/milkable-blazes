@@ -8,7 +8,7 @@ import net.minecraft.world.item.Item;
 import java.util.Random;
 
 public class MilkableBlazesModCommon {
-	public static final String MOD_ID = "template";
+	public static final String MOD_ID = "milkable_blazes";
 	public static final TagKey<Item> SHEAR_TAG = TagKey.create(Registries.ITEM, getLocation("c", "tools/shear"));
 	public static final TagKey<Item> SHEARS_TAG = TagKey.create(Registries.ITEM, getLocation("c", "tools/shears"));
 	public static final TagKey<Item> EMPTY_BUCKET_TAG = TagKey.create(Registries.ITEM, getLocation("c", "buckets/empty"));

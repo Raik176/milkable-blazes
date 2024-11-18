@@ -30,3 +30,15 @@ You can now milk a Blaze for Lava.
 <div align="center">
     <img src="https://i.imgur.com/ZteTu1u.gif" alt="Victim 2 demo" width="70%">
 </div>
+
+# Supporting me
+**I do not accept donations.**
+
+If you want to support me, tell everyone about this mod!
+
+Just by advertising, you will support me and this mod. If more people know about this mod, it will have more downloads, and more downloads motivate authors. **Remember, advertisements shouldn't be annoying or intrusive!**
+
+## How?
+* Make a video review / demonstration / advertisement
+* Tell your friends about this mod
+* Make a modpack with this mod in it
